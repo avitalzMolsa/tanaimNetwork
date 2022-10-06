@@ -11,5 +11,4 @@ SequenceSegmentationAndLabeling.py
 
 These 2 files contain the results of the study
 ==============================================
-RelationshipsMishna.xlsx
-RelationshipsTosefta.xlsx
+RelationshipsMishna.xlsx  &  RelationshipsTosefta.xlsx
